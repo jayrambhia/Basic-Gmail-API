@@ -1,0 +1,7 @@
+Made by Jay Rambhia
+Basic-Gmail0.2
+This is a basic Gmail API.
+It can send multiple attachments (txt file, images, audio,etc).
+It can also download multiple attachments (It reads only Unread emails from the given mailbox).
+
+

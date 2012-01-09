@@ -4,4 +4,7 @@ This is a basic Gmail API.
 It can send multiple attachments (txt file, images, audio,etc).
 It can also download multiple attachments (It reads only Unread emails from the given mailbox).
 
+Gmail API GUI:
+In the second commit only mails can be sent.
+
 
